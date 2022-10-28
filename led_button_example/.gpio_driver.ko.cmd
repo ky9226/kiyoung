@@ -1,0 +1,1 @@
+cmd_/home/seongho/working/led_button_example/gpio_driver.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/seongho/working/led_button_example/gpio_driver.ko /home/seongho/working/led_button_example/gpio_driver.o /home/seongho/working/led_button_example/gpio_driver.mod.o;  true
